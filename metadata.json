@@ -1,0 +1,5 @@
+{
+  "name": "Production",
+  "description": "A high-end industrial production and stock management system designed for tracking running drums, inventory levels, and production costs with AI-powered insights.",
+  "requestFramePermissions": []
+}
